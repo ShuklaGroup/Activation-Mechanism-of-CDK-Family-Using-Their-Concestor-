@@ -1,0 +1,12 @@
+amdruns 
+ &cntrl
+  imin=0,irest=0,ntx=5,
+  nstlim=28000000,dt=0.002,
+  ntc=2,ntf=2,ig=-1,
+  cut=8.0, ntb=2, ntp=1, pres0=1.0,
+  ntpr=50000, ntwx=25000,
+  ntt=1, tautp=2.0, temp0=300.0,
+  iamd=3, iwrap=1,
+  ethreshd=4860, alphad=224,
+  ethreshp=-148731, alphap=9919,
+/
