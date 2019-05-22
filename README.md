@@ -1,7 +1,7 @@
 # Activation-Mechanism-of-CDK-Family-Using-Their-Concestor
 
-## A brief description on of included files
-### input files
+## A brief description of included files
+### Input files
 Input topologies with five different crystal structures as templates: (The naming is from their corresponding PDB ID)
 ```
  CDK2/inputFiles/1FIN.prmtop 
