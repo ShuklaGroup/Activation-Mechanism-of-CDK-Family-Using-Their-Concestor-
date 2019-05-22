@@ -17,16 +17,16 @@ Input topologies with five different crystal structures as templates: (The namin
 ```
 Input coordinates with five different crystal structures as templates:
 ```
-- CDK2/inputFiles/1FIN.rst
-- CDK2/inputFiles/3PXF.rst
-- CDK2/inputFiles/3PXR.rst
-- CDK2/inputFiles/4GCJ.rst
-- CDK2/inputFiles/5A14.rst
-- CMGI/inputFiles/CMGI-1FIN.rst
-- CMGI/inputFiles/CMGI-3PXF.rst
-- CMGI/inputFiles/CMGI-3PXR.rst
-- CMGI/inputFiles/CMGI-4GCJ.rst
-- CMGI/inputFiles/CMGI-5A14.rst
+ CDK2/inputFiles/1FIN.rst
+ CDK2/inputFiles/3PXF.rst
+ CDK2/inputFiles/3PXR.rst
+ CDK2/inputFiles/4GCJ.rst
+ CDK2/inputFiles/5A14.rst
+ CMGI/inputFiles/CMGI-1FIN.rst
+ CMGI/inputFiles/CMGI-3PXF.rst
+ CMGI/inputFiles/CMGI-3PXR.rst
+ CMGI/inputFiles/CMGI-4GCJ.rst
+ CMGI/inputFiles/CMGI-5A14.rst
 ```
 Parameter files used for the accellerated MD simulations with AMBER:
 ```
